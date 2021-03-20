@@ -1,0 +1,45 @@
+/* bill styling*/
+
+body {
+    font-family: 'El Messiri', sans-serif;
+    font-size: 0.9rem;
+    overflow-x: hidden !important;
+}
+
+#dataTable {
+    display: none !important;
+}
+
+.form-side input,
+.form-side textarea {
+    /* border: 0px; */
+    padding: 15px 7px;
+    margin-bottom: 25px;
+}
+
+.form-side select {
+    margin-bottom: 25px;
+}
+
+.form-side .form-select {
+    /*background-position: left .75rem center !important;*/
+}
+
+.right-inputs {
+    height: 100vh;
+    background-color: #f4f6f9;
+    padding-right: 30px;
+}
+
+.btn-submit {
+    background-color: #17a2b8;
+    color: #fff;
+    border-radius: 6px;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 24px;
+    width: 250px;
+    height: 55px;
+    border: none;
+    margin: auto;
+}
